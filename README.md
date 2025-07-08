@@ -2,13 +2,19 @@
 Simple calculator written on python for telegram.
 
 
-|Requirements: 
+Requirements: 
+
+
 -Python 
+
+
 -telebot 
+
+
 -Telegram Bot 
 
 
-|Bot can: 
+Bot can: 
 -cout simple math examples
 
 
