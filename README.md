@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/4ba344fe-cac4-4e03-a84d-045a3f7fbe16)
 # Telegram-Calculator
 Simple calculator written on python for telegram.
 
