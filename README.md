@@ -1,5 +1,5 @@
 # Telegram-Calculator
-Simple calculator written on python for telegram.
+Simple calculator written on python for telegram.\n
 Requirements: 
 -Python 
 -telebot 
